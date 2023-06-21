@@ -1,7 +1,7 @@
 {
   "name": "@polyblog/polyblog-react",
-  "version": "0.0.2",
-  "description": "",
+  "version": "0.0.3",
+  "description": "translate React blog with polyblog.io",
   "main": "index.js",
   "scripts": {
     "test": ""
@@ -19,5 +19,5 @@
   "bugs": {
     "url": "https://github.com/polyblog-io/polyblog-react/issues"
   },
-  "homepage": "https://github.com/polyblog-io/polyblog-react#readme"
+  "homepage": "https://www.polyblog.io/"
 }
